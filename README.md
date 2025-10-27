@@ -60,7 +60,7 @@ Le traitement est divisé en deux parties :
 FaceRecognitionEdgeAI/
 ├── README.md                 # Description du projet
 ├── preprocessing.ipynb       # Notebook Colab pour générer les embeddings
-├── test_recognition_final.py # Script de reconnaissance faciale sur Raspberry Pi
+├── main.py # Script de reconnaissance faciale sur Raspberry Pi
 ├── model/
 │   └── all_embeddings.npy    # Embeddings pré-entraînés
 ```
